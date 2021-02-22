@@ -1,5 +1,7 @@
 # Note this is a fork of a WordPress plugin that is currently outdated, it may or may not work nicely with current WP versions, no guarantees. We will update is as soon as we get around to it. 
 
+It is working on the site we have currently used it on, but it's far from perfect. It still seems to be the best option that we could find to do this though and we will try to update it as soon as we get a little tiny bit of spare time.  
+
 # wp-report-post-2
 
 Highly customizable plugin to let your site visitors to report posts with inappropriate contents to administrator / editor.
